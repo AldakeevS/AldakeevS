@@ -1,4 +1,3 @@
-<div align="center"><img  width="600" alt="cod"  src="https://www.epl.ca/wp-content/uploads/sites/18/2020/12/CodingSnowflakes_Dec2020_BlogCard_890x445.png" alt="Giphy Image"><div/>
 <h1 align="center">Hi 👋, I'm Aldakeev Semetey</h1>
 <h3 align="center">Frontend-Developer</h3>
 <img align="right" alt="cod" width="400" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="Giphy Image">
